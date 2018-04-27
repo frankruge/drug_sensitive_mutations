@@ -7,3 +7,5 @@ results in a 3 column file where
 col1 = cell line
 col2 = sensitivity value (IC50)
 col3 = all mutations (comma separated)
+
+the resulting file is the input for downstream analysis in R
